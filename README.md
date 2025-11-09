@@ -1,4 +1,4 @@
-## Hi there 👋
+## Yo
 
 I'm **Aaron**.  
 I'm currently pursuing my **M.S. in Computer Science** specializing in **Machine Learning** at **Georgia Tech**.  

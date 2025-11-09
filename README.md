@@ -1,16 +1,29 @@
 ## Hi there 👋
 
-<!--
-**aaronjshelen/aaronjshelen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Aaron**.  
+I'm currently pursuing my **M.S. in Computer Science** at **Georgia Tech**.  
+I like:
+- writing random automation scripts (w/ Claude Code)
+- machine learning
+- algorithmic trading
+- cooking
+- working out
+- Jacksonville Jaguars
 
-Here are some ideas to get you started:
+Check out my work at my [portfolio website](https://aaronjshelen.github.io).  
+Feel free to reach out: **aaronjshelen@gmail.com**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Socials
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aaronjshelen)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aaronjshelen@gmail.com)
+
+---
+
+### GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=aaronjshelen&show_icons=true&theme=tokyonight&hide_title=true&hide_border=false)
+![Streak](https://streak-stats.demolab.com?user=aaronjshelen&theme=tokyonight&hide_border=false)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aaronjshelen&layout=compact&theme=tokyonight)
+
+---

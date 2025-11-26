@@ -10,7 +10,7 @@ I like:
 - working out
 - Jacksonville Jaguars
 
-Check out my work at my [portfolio website](https://aaronjshelen.github.io).  
+Check out my work at my https://aaronjshelen.github.io.  
 Feel free to reach out: **aaronjshelen@gmail.com**
 
 ---

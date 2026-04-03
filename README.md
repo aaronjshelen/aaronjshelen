@@ -9,7 +9,5 @@ I like:
 - working out
 - Jacksonville Jaguars
 
-Feel free to reach out: **aaronjshelen@gmail.com**
-
 ---
 
